@@ -1,0 +1,2 @@
+# InstantSoup
+こちらはSoupPvPをするにあたって必要なpluginです
