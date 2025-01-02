@@ -1,0 +1,3 @@
+# きのこシチューを食べたときの効果
+health-restore: 5    # 回復するHP (2 = 1ハート)
+hunger-restore: 6    # 回復する満腹度

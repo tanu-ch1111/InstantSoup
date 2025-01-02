@@ -1,0 +1,6 @@
+name: instantsoup
+version: '${project.version}'
+main: instantsoup.tanuch.maincode
+authors: [Tanu_ch]
+website: https://github.com/tanu-ch1111/InstantSoup
+api-version: 1.8
